@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Naman Sharma from Delhi.
+Contact me - sharmanaman8099@gmail.com
 <!--
 **NamanXcode/NamanXcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
